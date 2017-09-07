@@ -28,10 +28,12 @@ h3 {
 
 }*/
 .stack {
-  min-height: 500px;
-  width: 5%;
+  width: 15%;
   display: inline-table;
-
+  min-height: 30vh;
+  width: 28%;
+  margin: auto;
+  display: inline-table;
 }
 /*.white {
 	  background-color: #fff;
