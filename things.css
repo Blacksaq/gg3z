@@ -43,6 +43,7 @@ h3 {
 
 .lime_green {
   background-color: #97D23C;
+  
 }
 
 
@@ -56,25 +57,30 @@ h3 {
 /*this is the stack class set of colors*/
 .green1 {
   background-color: #00A046;
+width: 150vh;
 }
 
 
 .forrest {
   background-color: #008977;
+  width: 60vh;
 }
 
 
 .ocean {
   background-color: #0070AF;
+  width: 90vh;
 }
 
 .sky {
   background-color: #335AB6;
+  width: 150vh;
 }
 
 
 .purple {
   background-color: #704591;
+  width: 150vh;
 }
 
 
