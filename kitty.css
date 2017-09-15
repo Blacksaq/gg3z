@@ -1,0 +1,43 @@
+@media screen and (max-width: 14000px) {
+  body {
+    width: 800px;
+    margin: 0 auto;
+  }
+  img {
+	content:url(images/kitten-large.png);
+	
+  }
+  body {
+	  background-image: url ()
+  }
+}
+@media screen and (max-width: 1200px) {
+  body {
+    width: 800px;
+    margin: 0 auto;
+  }
+  img {
+	content:url(images/kitten-medium.png);
+	
+  }
+}
+@media screen and (max-width: 1000px) {
+  body {
+    width: 800px;
+    margin: 0 auto;
+  }
+  img {
+	content:url(images/kitten-small.png);
+	
+  }
+}
+@media screen and (max-width: 800px) {
+  body {
+    width: 800px;
+    margin: 0 auto;
+  }
+  img {
+	content:url(images/kittyloaf.gif);
+	
+  }
+}
