@@ -5,7 +5,7 @@
   margin: auto;
 }
 .bitty {
-  width: 7.5%;
+  width: 25vh;
   display: inline-table;
   min-height: 20vh;
   margin: auto;
@@ -40,22 +40,21 @@ width: 50vh;
 
 .forrest {
   background-color: #008977;
-  width: 25vh;
+ 
 }
 
 
 .ocean {
   background-color: #0070AF;
-  width: 25vh;
-}
+ 
 
 .sky {
   background-color: #335AB6;
-  width: 55vw;
+  width: 50vw;
 }
 
 
 .purple {
   background-color: #704591;
-  width: 60vw;
+  width: 50vw;
 }
