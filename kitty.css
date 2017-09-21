@@ -4,11 +4,11 @@
     margin: 0 auto;
   }
   img {
-	content:url(images/kitten-large.png);
+	content:url(kitten-large.png);
 	
   }
   body {
-	  background-image: url(images/anna-4.gif)
+	  background-image: url(anna-4.gif)
   }
 }
 @media screen and (max-width: 1200px) {
@@ -17,7 +17,7 @@
     margin: 0 auto;
   }
   img {
-	content:url(images/kitten-medium.png);
+	content:url(kitten-medium.png);
 	
   }
 }
@@ -27,7 +27,7 @@
     margin: 0 auto;
   }
   img {
-	content:url(images/kitten-small.png);
+	content:url(kitten-small.png);
 	
   }
 }
@@ -37,10 +37,10 @@
     margin: 0 auto;
   }
   img {
-	content:url(images/kittyloaf.gif);
+	content:url(kittyloaf.gif);
 	
   }
 body {
-	  background-image: url(images/anna-1.gif)
+	  background-image: url(anna-1.gif)
   }
   }
