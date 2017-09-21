@@ -8,7 +8,7 @@
 	
   }
   body {
-	  background-image: url ()
+	  background-image: url(images/anna-4.gif)
   }
 }
 @media screen and (max-width: 1200px) {
@@ -40,4 +40,7 @@
 	content:url(images/kittyloaf.gif);
 	
   }
-}
+body {
+	  background-image: url(images/anna-1.gif)
+  }
+  }
