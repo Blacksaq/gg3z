@@ -17,7 +17,9 @@
   margin: auto;
 }
 
-
+.height1 {
+    width: 50vh;
+}
 .lime_green {
   background-color: #97D23C;
   
@@ -34,7 +36,6 @@
 /*this is the stack class set of colors*/
 .green1 {
   background-color: #00A046;
-width: 50vh;
 }
 
 
@@ -49,12 +50,10 @@ width: 50vh;
  
 
 .sky {
-  background-color: #335AB6;
-  width: 50vh;
+  background-color: #335AB6; 
 }
 
 
 .purple {
   background-color: #704591;
-  width: 50vh;
 }
