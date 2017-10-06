@@ -19,6 +19,9 @@ text-style: underline;
   min-height: 70vh;
   margin: auto;
 }
+.boom{
+display:flex;
+}
 
 .height1 {
     width: 50vh;
