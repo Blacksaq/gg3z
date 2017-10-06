@@ -5,22 +5,22 @@ text-style: underline;
   width: 15%;
   display: inline-table;
   min-height: 20vh;
-  margin: auto;
+  margin: none;
 }
 .bitty {
   width: 25vh;
   display: inline-table;
   min-height: 20vh;
-  margin: auto;
+  margin: none;
 }
 .fatty {
   width: 15%;
-  display: inline-table;
+  display: flex;
   min-height: 70vh;
-  margin: auto;
+  margin: none;
 }
 .boom{
-display:flex;
+display: inline-table;
 }
 
 .height1 {
