@@ -3,19 +3,19 @@ text-style: underline;
 }
 .stack {
   width: 15%;
-  display: flex;
+  display: inline-table;
   min-height: 20vh;
   margin: auto;
 }
 .bitty {
   width: 25vh;
-  display: flex;
+  display: inline-table;
   min-height: 20vh;
   margin: auto;
 }
 .fatty {
   width: 15%;
-  display: inline-table;
+  display: flex;
   min-height: 70vh;
   margin: auto;
 }
