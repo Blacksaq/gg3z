@@ -15,12 +15,12 @@ text-style: underline;
 }
 .fatty {
   width: 15%;
-  display: flex;
+  display:  inline-table;
   min-height: 70vh;
   margin: none;
 }
 .boom{
-display: inline-table;
+display: block;
 }
 
 .height1 {
